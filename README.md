@@ -1,2 +1,2 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=tyhjakuori&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyhjakuori&layout=compact&langs_count=8&hide=adblock_filter_list&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyhjakuori&layout=compact&langs_count=8&hide=adblock%20filter%20list&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
